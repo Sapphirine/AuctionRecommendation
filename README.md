@@ -7,6 +7,6 @@ mysite:
 
     The website of our system to visiualize data. It is a Django based APP.
     
-RecommendAPP:
+RecommendAPP and RecommendAPP2:
 
     The backend of the system to do auction recommendation by Mahout + Java.
